@@ -35,5 +35,24 @@ A web-based inventory management system built using PHP and MySQL for small reta
 - Reports & exports
 - Better UI
 
+## Problem Statement
+Small retail shops often manage inventory manually on paper, which leads to errors, stock mismatches, and lack of visibility on low stock items. This project digitizes inventory management to improve accuracy and efficiency.
+
+## What I Learned
+- Designing relational database schemas
+- Using prepared statements in PHP (SQL Injection prevention)
+- Implementing stock in/out logic
+- Handling business rules (preventing negative stock)
+- Creating reusable layouts (header, sidebar, footer)
+- Version control using Git and GitHub
+
+## Database Tables
+- products (id, name, category, current_stock, min_stock)
+- stock_movements (id, product_id, type, quantity, date, note)
+
+## Security
+- Uses prepared statements to prevent SQL injection
+- Server-side validation for stock operations
+
 ## Author
 Tanveer Singh
