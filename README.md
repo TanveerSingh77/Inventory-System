@@ -50,6 +50,10 @@ Small retail shops often manage inventory manually on paper, which leads to erro
 - products (id, name, category, current_stock, min_stock)
 - stock_movements (id, product_id, type, quantity, date, note)
 
+## Screenshots
+<img width="1918" height="917" alt="image" src="https://github.com/user-attachments/assets/b66060f7-cbed-4726-80fb-aa70c6940afb" />
+
+
 ## Security
 - Uses prepared statements to prevent SQL injection
 - Server-side validation for stock operations
