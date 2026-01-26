@@ -54,6 +54,7 @@ Small retail shops often manage inventory manually on paper, which leads to erro
 <img width="1918" height="917" alt="image" src="https://github.com/user-attachments/assets/b66060f7-cbed-4726-80fb-aa70c6940afb" />
 <img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/b1c593cb-9bda-4ddf-94f6-e2db742623e5" />
 <img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/c8829236-e0e6-41c3-8b5e-b7b39c9957a4" />
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/1fc2f956-ae2b-40f4-a7c5-28c55adf025f" />
 
 ## Security
 - Uses prepared statements to prevent SQL injection
