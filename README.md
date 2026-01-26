@@ -56,6 +56,10 @@ Small retail shops often manage inventory manually on paper, which leads to erro
 <img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/c8829236-e0e6-41c3-8b5e-b7b39c9957a4" />
 <img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/1fc2f956-ae2b-40f4-a7c5-28c55adf025f" />
 
+## Demo-Video
+Watch full working demo of the project:
+https://drive.google.com/file/d/1zf550Oxnat5h6uqlWcnrkJXIip_76nf2/view?usp=sharing
+
 ## Security
 - Uses prepared statements to prevent SQL injection
 - Server-side validation for stock operations
