@@ -37,4 +37,3 @@ A web-based inventory management system built using PHP and MySQL for small reta
 
 ## Author
 Tanveer Singh
-BCA Student
