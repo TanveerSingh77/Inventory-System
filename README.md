@@ -64,5 +64,9 @@ https://drive.google.com/file/d/1zf550Oxnat5h6uqlWcnrkJXIip_76nf2/view?usp=shari
 - Uses prepared statements to prevent SQL injection
 - Server-side validation for stock operations
 
-## Author
-Tanveer Singh
+# Let's Connect
+
+Email: [tanveer.gulati2006@gmail.com](mailto:tanveer.gulati2006@gmail.com)
+
+LinkedIn:  [Tanveer Singh Gulati LinkedIn](https://www.linkedin.com/in/tanveer-singh-gulati/)
+
