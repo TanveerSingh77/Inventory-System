@@ -165,5 +165,4 @@ Through this project, I gained hands-on experience in:
 
 Email: [tanveer.gulati2006@gmail.com](mailto:tanveer.gulati2006@gmail.com)
 
-LinkedIn:  
-[Tanveer Singh Gulati LinkedIn](https://www.linkedin.com/in/tanveer-singh-gulati/?utm_source=chatgpt.com)
+LinkedIn:  [Tanveer Singh Gulati LinkedIn](https://www.linkedin.com/in/tanveer-singh-gulati/?utm_source=chatgpt.com)
